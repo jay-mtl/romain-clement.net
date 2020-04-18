@@ -1,0 +1,21 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Articles from Romain Clement",
+    "home_page_url": "https://romain-clement.net/articles",
+    "feed_url": "https://romain-clement.net/feed/articles/feed.json",
+    "description": "I mostly write about software engineering for cloud-native applications. And some other stuff.",
+    "items": [
+        {
+            "id": "https://romain-clement.net/articles/github-actions-cicd-workflows",
+            "content_html": "The current state of GitHub Actions is promising but still has some rough edges, when it comes to configuring complete GitOps CI/CD workflows. But I've managed to find some tricks to get the job done.",
+            "url": "https://romain-clement.net/articles/github-actions-cicd-workflows",
+            "title": "GitOps CI/CD workflows with GitHub Actions",
+            "summary": "The current state of GitHub Actions is promising but still has some rough edges, when it comes to configuring complete GitOps CI/CD workflows. But I've managed to find some tricks to get the job done.",
+            "date_modified": "2020-04-18T00:00:00.000Z",
+            "author": {
+                "name": "Romain Clement",
+                "url": "https://romain-clement.net"
+            }
+        }
+    ]
+}
