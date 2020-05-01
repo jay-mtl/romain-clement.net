@@ -7,10 +7,10 @@
     "items": [
         {
             "id": "https://romain-clement.net/articles/sentry-url-fragments",
-            "content_html": "When activating Sentry crash reporting in JavaScript/TypeScript client-side code, the default mechanism sends captures and send the current URL, including any URL fragments. This can pose a privacy issue when dealing with client-side end-to-end encrypted applications.",
+            "content_html": "When activating Sentry crash reporting in JavaScript client-side code, the default mechanism captures and sends the current URL, including any URL fragments. This can pose a privacy issue when dealing with client-side end-to-end encrypted applications.",
             "url": "https://romain-clement.net/articles/sentry-url-fragments",
             "title": "Scrubbing URL fragments from Sentry crash reports",
-            "summary": "When activating Sentry crash reporting in JavaScript/TypeScript client-side code, the default mechanism sends captures and send the current URL, including any URL fragments. This can pose a privacy issue when dealing with client-side end-to-end encrypted applications.",
+            "summary": "When activating Sentry crash reporting in JavaScript client-side code, the default mechanism captures and sends the current URL, including any URL fragments. This can pose a privacy issue when dealing with client-side end-to-end encrypted applications.",
             "date_modified": "2020-05-01T00:00:00.000Z",
             "author": {
                 "name": "Romain Clement",

@@ -4,7 +4,7 @@
         <title>Articles from Romain Clement</title>
         <link>https://romain-clement.net/articles</link>
         <description>I mostly write about software engineering for cloud-native applications. And some other stuff.</description>
-        <lastBuildDate>Fri, 01 May 2020 13:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2020 13:38:18 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <atom:link href="https://romain-clement.net/feed/articles/atom.xml" rel="self" type="application/rss+xml"/>
@@ -13,8 +13,8 @@
             <link>https://romain-clement.net/articles/sentry-url-fragments</link>
             <guid>https://romain-clement.net/articles/sentry-url-fragments</guid>
             <pubDate>Fri, 01 May 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[When activating Sentry crash reporting in JavaScript/TypeScript client-side code, the default mechanism sends captures and send the current URL, including any URL fragments. This can pose a privacy issue when dealing with client-side end-to-end encrypted applications.]]></description>
-            <content:encoded><![CDATA[When activating Sentry crash reporting in JavaScript/TypeScript client-side code, the default mechanism sends captures and send the current URL, including any URL fragments. This can pose a privacy issue when dealing with client-side end-to-end encrypted applications.]]></content:encoded>
+            <description><![CDATA[When activating Sentry crash reporting in JavaScript client-side code, the default mechanism captures and sends the current URL, including any URL fragments. This can pose a privacy issue when dealing with client-side end-to-end encrypted applications.]]></description>
+            <content:encoded><![CDATA[When activating Sentry crash reporting in JavaScript client-side code, the default mechanism captures and sends the current URL, including any URL fragments. This can pose a privacy issue when dealing with client-side end-to-end encrypted applications.]]></content:encoded>
             <author>contact@romain-clement.net (Romain Clement)</author>
         </item>
         <item>
