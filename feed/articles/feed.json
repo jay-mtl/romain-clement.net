@@ -6,6 +6,18 @@
     "description": "I mostly write about software engineering for cloud-native applications. And some other stuff.",
     "items": [
         {
+            "id": "https://romain-clement.net/articles/sentry-url-fragments",
+            "content_html": "When activating Sentry crash reporting in JavaScript/TypeScript client-side code, the default mechanism sends captures and send the current URL, including any URL fragments. This can pose a privacy issue when dealing with client-side end-to-end encrypted applications.",
+            "url": "https://romain-clement.net/articles/sentry-url-fragments",
+            "title": "Scrubbing URL fragments from Sentry crash reports",
+            "summary": "When activating Sentry crash reporting in JavaScript/TypeScript client-side code, the default mechanism sends captures and send the current URL, including any URL fragments. This can pose a privacy issue when dealing with client-side end-to-end encrypted applications.",
+            "date_modified": "2020-05-01T00:00:00.000Z",
+            "author": {
+                "name": "Romain Clement",
+                "url": "https://romain-clement.net"
+            }
+        },
+        {
             "id": "https://romain-clement.net/articles/github-actions-cicd-workflows",
             "content_html": "The current state of GitHub Actions is promising but still has some rough edges, when it comes to configuring complete GitOps CI/CD workflows. But I've managed to find some tricks to get the job done.",
             "url": "https://romain-clement.net/articles/github-actions-cicd-workflows",
